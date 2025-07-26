@@ -7,6 +7,9 @@ https://sketchfab.com/3d-models/planispheric-astrolabe-f6dac1748e964711ad4331767
 3D-Model Schiff:
 https://sketchfab.com/3d-models/sail-ship-cafc6991cf63439db0adbf60ed92a2e3
 
+3D-Model Museum:
+https://www.turbosquid.com/3d-models/free-house-3d-model-2052119
+
 Papiertextur:
 https://www.texturecan.com/details/70/
 
@@ -39,6 +42,10 @@ Icons:
 <a href="https://www.flaticon.com/de/kostenlose-icons/globus" title="globus Icons">Globus Icons erstellt von Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/de/kostenlose-icons/uhr" title="uhr Icons">Uhr Icons erstellt von Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/de/kostenlose-icons/karte" title="karte Icons">Karte Icons erstellt von Freepik - Flaticon</a>
+
+Sound Effekte & Hintergrund:
+https://pixabay.com/sound-effects/gentle-ocean-waves-birdsong-and-gull-7109/
+https://pixabay.com/sound-effects/casual-click-pop-ui-9-262123/
 
 Einige Icons mit Figma und Photoshop selbst gestaltet
 

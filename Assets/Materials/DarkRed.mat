@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PinPlasticRed
+  m_Name: DarkRed
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 2100000, guid: fbb1357efdbd2864db17456254d90859, type: 2}
   m_ModifiedSerializedProperties: 0
@@ -24,7 +24,8 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats: []
+    m_Floats:
+    - _Metallic: 0
     m_Colors:
-    - _Color: {r: 0.9433962, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.5, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
